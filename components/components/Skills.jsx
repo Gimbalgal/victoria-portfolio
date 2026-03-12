@@ -13,7 +13,7 @@ export default function Skills() {
             Frontend
           </h3>
 
-          <ul className="space-y-2 text-gray-600">
+          <ul className="space-y-2 text-gray-800">
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
@@ -27,7 +27,7 @@ export default function Skills() {
             Backend
           </h3>
 
-          <ul className="space-y-2 text-gray-600">
+          <ul className="space-y-2 text-gray-800">
             <li>Node.js</li>
             <li>Express</li>
             <li>MongoDB</li>
@@ -40,7 +40,7 @@ export default function Skills() {
             Tools & Platforms
           </h3>
 
-          <ul className="space-y-2 text-gray-600">
+          <ul className="space-y-2 text-gray-800">
             <li>Figma</li>
             <li>WordPress</li>
             <li>WooCommerce</li>

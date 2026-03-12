@@ -2,13 +2,13 @@ export default function Hero() {
   return (
     <section className="min-h-screen flex flex-col justify-center items-center text-center">
 
-      <h1 className="text-5xl font-bold mb-4">
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
         Victoria Augustine Ishabo
       </h1>
 
-      <p className="text-xl text-gray-600 mb-6">
-        Web Developer • Product Designer • WordPress Developer
-      </p>
+     <p className="text-sm sm:text-base md:text-lg lg:text-xl text-slate-600 mb-6">
+          Web Developer • Product Designer • WordPress Developer
+    </p>
 
       <div className="flex gap-4">
         <a

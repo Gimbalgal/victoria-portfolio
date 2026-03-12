@@ -23,7 +23,7 @@ export default function Wordpress() {
               {site.title}
             </h3>
 
-            <p className="text-gray-600 mb-4">
+            <p className="text-gray-400 mb-4">
               {site.description}
             </p>
 

@@ -6,7 +6,7 @@ export default function Hero() {
         Victoria Augustine Ishabo
       </h1>
 
-      <p className="text-xl text-gray-600 mb-6">
+      <p className="text-xl text-gray-800 mb-6">
         Web Developer • Product Designer • WordPress Developer
       </p>
 

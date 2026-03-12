@@ -6,7 +6,7 @@ export default function Resume() {
         Resume
       </h2>
 
-      <p className="text-gray-600 mb-6">
+      <p className="text-gray-800 mb-6">
         Download my resume to learn more about my experience,
         skills, and projects.
       </p>

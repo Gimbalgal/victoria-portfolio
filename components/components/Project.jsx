@@ -19,7 +19,7 @@ export default function Projects() {
               {project.title}
             </h3>
 
-            <p className="text-gray-600">
+            <p className="text-gray-800">
               {project.description}
             </p>
 

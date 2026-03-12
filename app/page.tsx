@@ -11,16 +11,16 @@ import Project from "@/components/Project"
 
 export default function Home() {
   return (
-    <>
+    <main className="pt-24">
       <Navbar />
       <Hero />
       <About />
-      <Projects />
+      <Project />
       <Wordpress />
       <Skills />
       <Resume />
       <Contact />
       <Footer />
-    </>
+    </main>
   )
 }

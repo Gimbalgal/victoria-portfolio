@@ -8,7 +8,7 @@ export default function Contact() {
 
       <div className="max-w-xl mx-auto text-center">
 
-        <p className="text-gray-600 mb-6">
+        <p className="text-gray-800 mb-6">
           Feel free to reach out if you'd like to collaborate,
           discuss opportunities, or just say hello.
         </p>
