@@ -1,7 +1,6 @@
 import Navbar from "@/components/Navbar"
 import Hero from "@/components/Hero"
 import About from "@/components/About"
-import Projects from "@/components/Project"
 import Wordpress from "@/components/Wordpress"
 import Skills from "@/components/Skills"
 import Resume from "@/components/Resume"
