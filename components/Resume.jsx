@@ -13,11 +13,11 @@ export default function Resume() {
 
       {/* button group to prevent overlap */}
       <div className="flex justify-center gap-4">
-        <a href="/resume.pdf" target="_blank" className="border px-6 py-3 rounded-lg">
+        <a href="/resume..pdf" target="_blank" className="border px-6 py-3 rounded-lg">
           View Resume
         </a>
 
-        <a href="/resume.pdf" download className="bg-black text-white px-6 py-3 rounded-lg">
+        <a href="/resume..pdf" download className="bg-black text-white px-6 py-3 rounded-lg">
           Download Resume
         </a>
       </div>
