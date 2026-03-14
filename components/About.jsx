@@ -8,7 +8,7 @@ export default function About() {
 
       <p className="text-gray-200 leading-relaxed mb-4">
         I am a web developer and product designer with a background in Film Art
-        from the National Film Institute, Jos. My experience in storytelling
+        from the National Film Institute Jos, Nigeria My experience in storytelling
         and visual communication sparked my interest in creating digital
         experiences through design and technology.
       </p>
